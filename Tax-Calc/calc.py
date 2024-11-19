@@ -1,5 +1,6 @@
 # This will help users calculate their tax based on their income and the tax bracket they fall into
 # ALL BASED ON USD
+# UPDATED FOR 2025 TAX BRACKETS
 
 import sys
 
